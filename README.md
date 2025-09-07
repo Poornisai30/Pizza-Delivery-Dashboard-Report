@@ -21,7 +21,7 @@ Built using **Power BI**, it helps understand:
 - Customer satisfaction indicators
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard-preview)
+![Dashboard Screenshot](dashboard-preview.png)
 
 ## ⚙️ Tools Used
 - Power BI
