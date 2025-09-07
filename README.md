@@ -21,7 +21,7 @@ Built using **Power BI**, it helps understand:
 - Customer satisfaction indicators
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/Poornisai30/Pizza-Delivery-Dashboard-Report/blob/main/Pizza-Delivery-Dashboard/dashboard-preview.png)
 
 ## ⚙️ Tools Used
 - Power BI
